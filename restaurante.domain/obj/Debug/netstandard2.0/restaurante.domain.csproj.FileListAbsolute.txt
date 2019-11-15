@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\bin\Debug\netstandard2.0\restaurante.domain.deps.json
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\bin\Debug\netstandard2.0\restaurante.domain.dll
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\bin\Debug\netstandard2.0\restaurante.domain.pdb
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\obj\Debug\netstandard2.0\restaurante.domain.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\obj\Debug\netstandard2.0\restaurante.domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\obj\Debug\netstandard2.0\restaurante.domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\obj\Debug\netstandard2.0\restaurante.domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\obj\Debug\netstandard2.0\restaurante.domain.dll
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.domain\obj\Debug\netstandard2.0\restaurante.domain.pdb

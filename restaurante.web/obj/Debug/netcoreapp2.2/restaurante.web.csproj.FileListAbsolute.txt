@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.dll
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.pdb
